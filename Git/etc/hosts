@@ -1,5 +1,0 @@
-
-# BEGIN section for OpenVPN Client SSL sites
-127.94.0.1	client.openvpn.net
-127.94.0.2	openvpn-client.config.vpn.unicamp.br
-# END section for OpenVPN Client SSL sites
